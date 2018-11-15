@@ -1,0 +1,7 @@
+{
+    "name": "runa-hr",
+    "version": "1.0.0",
+    "description": "We will need to create an endpoint in Rails [ for RunaHR app] to receive data from an external system and save it in the database. After saving we will need to display that data in existing client [RunaHR] application on a new page This empty application was built with Crowdbotics www.crowdbotics.com",
+    "repository": "https://github.com/crowdbotics-users/ateqcrowdboticscom-ateq-586"
+}
+    
